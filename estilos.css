@@ -1,0 +1,49 @@
+a {
+    color:#000000;
+}
+
+body {
+    background-image: url(Fotos/fondos.PNG);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+}
+
+h1{
+    text-align: center;
+    color: #ffffff;
+    text-shadow: black 2px 2px 5px;
+    font-size:40px;
+    font-family: 'Times New Roman', serif;
+}
+
+h3{
+    text-align: center;
+    color: #ffffff;
+    text-shadow: black 2px 2px 5px;
+    font-size:25px;
+    font-family: 'Times New Roman', serif; 
+}
+
+.box {
+    width: 65%;
+    margin: auto;
+    background-color:#376110;
+    padding: 20px;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+    text-align: left;
+}
+
+.box img {
+    display: flex;
+    margin: 0 auto;
+    width: 70%;
+    height: 70%;
+}
+
+.notes {
+    margin-top: 20px;
+    text-align: left;
+}
